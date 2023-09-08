@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**8F41FE9C01DFE88AF9D400763B582CD0/8F41FE9C01DFE88AF9D400763B582CD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anusri/8F41FE9C01DFE88AF9D400763B582CD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
